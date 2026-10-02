@@ -1,0 +1,15 @@
+venv/
+
+.env
+
+**pycache**/
+
+outputs/*.log
+
+outputs/*.txt
+
+*.pyc
+
+.idea/
+
+.vscode/
